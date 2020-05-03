@@ -245,6 +245,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 204)
   jekyll-feed (~> 0.6)
+  jekyll-paginate
+  jekyll-remote-theme
   minima (~> 2.0)
   rake
   tzinfo-data
